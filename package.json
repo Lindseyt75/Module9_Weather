@@ -20,10 +20,11 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^8.2.2",
+    "gh-pages": "^6.2.0",
     "nodemon": "^3.1.0",
     "wait-on": "^7.2.0"
-  },
-  "dependencies": {
+},
+"dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.2",
     "bootstrap": "^5.3.3",
     "dotenv": "^16.4.7",

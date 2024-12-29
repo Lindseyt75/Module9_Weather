@@ -14,5 +14,13 @@
   },
   "dependencies": {
     "dayjs": "^1.11.10"
-  }
+  },
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "Lindseyt75"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": ""
 }
