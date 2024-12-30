@@ -2,7 +2,7 @@ import { Router } from 'express';
 const router = Router();
 
 import apiRoutes from './api/index';
-import htmlRoutes from './htmlRoutes';
+import htmlRoutes from './htmlRoutes.js';
 
 router.use('/api', apiRoutes);
 router.use('/', htmlRoutes);
