@@ -1,7 +1,19 @@
 # Module9_Weather
 
 Usage
-To be able to pull pull weather information in most cities.
+To be able to pull weather information in most cities.
+
+Open the application in your browser.
+Enter the name of a city in the search field.
+View the current weather and the 5-day forecast for the selected city.
+
+How to use from the repository
+copy the .env file and rename it to .env
+then add your personal api key
+type the following commands
+npm i
+npm run build
+npm run start
 
 User Story
 AS A traveler
