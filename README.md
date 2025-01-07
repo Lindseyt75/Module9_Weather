@@ -3,8 +3,10 @@
 Usage
 To be able to pull weather information in most cities.
 
+URL: https://weather-service-1613.onrender.com
+
 Open the application in your browser.
-Enter the name of a city in the search field.
+Enter the name of a city (City Name only)in the search field.
 View the current weather and the 5-day forecast for the selected city.
 
 How to use from the repository
